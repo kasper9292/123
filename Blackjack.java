@@ -1,3 +1,10 @@
+/**
+ * 
+ * 			helaas niet afgekregen :(
+ * 			mist nog een aantal functies
+ * 
+ */
+
 import java.util.Scanner;
 
 public class Blackjack {
